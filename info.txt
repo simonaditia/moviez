@@ -1,0 +1,8 @@
+1.npm install
+2.npm run build atau npm run start-dev atau npm run start
+
+*catatan:
+1. Jika error "ReferenceError: keyword is not defined"
+    pastikan internet anda tersambung:)
+2. Jika halaman tidak merespon silahkan klik reload+tekan tombol shift:)
+3. Mudah-mudahan diterima dan dapat bintang 5:)

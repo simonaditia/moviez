@@ -1,0 +1,48 @@
+/* @import "movielist.css"; */
+/* @import "searchbar.css"; */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+main {
+    width: 90%;
+    max-width: 800px;
+    margin: 32px auto;
+}
+
+.clock {
+    color: white;
+}
+
+movie-list,
+popular-list,
+top_rated-list,
+upcoming-list {
+    display: block;
+    margin-top: 32px;
+    width: 100%;
+    padding: 16px;
+}
+
+.popular-image {
+    width: 100%;
+    height: auto;
+}
+
+.top_rated-image {
+    width: 100%;
+    height: auto;
+}
+
+.upcoming-image {
+    width: 100%;
+    height: auto;
+}
